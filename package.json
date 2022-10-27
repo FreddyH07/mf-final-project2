@@ -1,0 +1,23 @@
+{
+  "name": "mf-final-project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass -w scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreddyH07/mf-final-project2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreddyH07/mf-final-project2/issues"
+  },
+  "homepage": "https://github.com/FreddyH07/mf-final-project2#readme",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
+}

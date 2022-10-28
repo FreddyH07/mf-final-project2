@@ -1,5 +1,45 @@
-body {
+.navbar {
+  color: black;
+}
+
+.logo {
+  height: 45px;
+}
+
+/* Contact Form */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid aqua;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 45px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: black;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: rgb(17, 192, 192);
+}
+
+.container {
+  display: block;
+  border-radius: 5px;
   background-color: gray;
+  padding: 20px;
+  height: 500px;
+  width: 705px;
+  margin-top: 10px;
+  margin-left: 10px;
 }
 
 /*# sourceMappingURL=style.css.map */
